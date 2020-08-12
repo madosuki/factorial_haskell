@@ -1,1 +1,1 @@
-# fact
+# simply factorial program sample
